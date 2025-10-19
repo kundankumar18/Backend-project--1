@@ -1,0 +1,20 @@
+{
+  "name": "task-management-api",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "description": "RESTful API for Task Management System with CRUD operations",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "morgan": "^1.10.1",
+    "uuid": "^13.0.0"
+  }
+}

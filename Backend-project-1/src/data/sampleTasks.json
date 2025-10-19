@@ -1,0 +1,242 @@
+[
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440001",
+        "title": "Design database schema",
+        "description": "Create comprehensive database schema for the new project management system",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2025-10-15T18:00:00.000Z",
+        "tags": [
+            "database",
+            "design",
+            "backend"
+        ],
+        "createdAt": "2025-10-01T10:00:00.000Z",
+        "updatedAt": "2025-10-15T14:30:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440002",
+        "title": "Implement authentication",
+        "description": "Set up JWT-based authentication with refresh tokens and role-based access control",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2025-10-20T23:59:59.000Z",
+        "tags": [
+            "authentication",
+            "security",
+            "backend"
+        ],
+        "createdAt": "2025-10-05T09:00:00.000Z",
+        "updatedAt": "2025-10-18T11:15:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440003",
+        "title": "Create API documentation",
+        "description": "Write comprehensive API documentation using OpenAPI/Swagger specification",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2025-10-25T17:00:00.000Z",
+        "tags": [
+            "documentation",
+            "api",
+            "frontend"
+        ],
+        "createdAt": "2025-10-08T14:00:00.000Z",
+        "updatedAt": "2025-10-18T09:30:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440004",
+        "title": "Build user dashboard",
+        "description": "Create responsive user dashboard with analytics and metrics visualization",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2025-11-01T18:00:00.000Z",
+        "tags": [
+            "frontend",
+            "ui",
+            "dashboard"
+        ],
+        "createdAt": "2025-10-02T13:00:00.000Z",
+        "updatedAt": "2025-10-18T08:45:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440005",
+        "title": "Set up CI/CD pipeline",
+        "description": "Configure GitHub Actions for automated testing and deployment",
+        "status": "completed",
+        "priority": "high",
+        "dueDate": "2025-10-12T16:00:00.000Z",
+        "tags": [
+            "devops",
+            "ci-cd",
+            "infrastructure"
+        ],
+        "createdAt": "2025-10-01T08:00:00.000Z",
+        "updatedAt": "2025-10-12T15:45:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440006",
+        "title": "Optimize database queries",
+        "description": "Review and optimize slow database queries for better performance",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2025-10-22T23:59:59.000Z",
+        "tags": [
+            "database",
+            "performance",
+            "backend"
+        ],
+        "createdAt": "2025-10-10T10:00:00.000Z",
+        "updatedAt": "2025-10-17T16:20:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440007",
+        "title": "Write unit tests",
+        "description": "Write comprehensive unit tests for all core business logic and controllers",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2025-10-28T17:00:00.000Z",
+        "tags": [
+            "testing",
+            "backend",
+            "qa"
+        ],
+        "createdAt": "2025-10-06T11:00:00.000Z",
+        "updatedAt": "2025-10-18T10:00:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440008",
+        "title": "Implement caching strategy",
+        "description": "Add Redis caching for frequently accessed data to improve performance",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2025-11-05T18:00:00.000Z",
+        "tags": [
+            "caching",
+            "performance",
+            "backend"
+        ],
+        "createdAt": "2025-10-09T14:30:00.000Z",
+        "updatedAt": "2025-10-18T12:00:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440009",
+        "title": "Design mobile app UI",
+        "description": "Create wireframes and mockups for mobile application interface",
+        "status": "in-progress",
+        "priority": "medium",
+        "dueDate": "2025-10-24T19:00:00.000Z",
+        "tags": [
+            "design",
+            "ui",
+            "mobile"
+        ],
+        "createdAt": "2025-10-07T09:00:00.000Z",
+        "updatedAt": "2025-10-16T13:45:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440010",
+        "title": "Configure monitoring and logging",
+        "description": "Set up application monitoring with Sentry and centralized logging with ELK stack",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2025-10-30T20:00:00.000Z",
+        "tags": [
+            "monitoring",
+            "logging",
+            "devops"
+        ],
+        "createdAt": "2025-10-11T15:00:00.000Z",
+        "updatedAt": "2025-10-18T11:30:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440011",
+        "title": "Implement email notifications",
+        "description": "Add email notification system for task updates and alerts",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2025-11-08T18:00:00.000Z",
+        "tags": [
+            "email",
+            "notifications",
+            "backend"
+        ],
+        "createdAt": "2025-10-14T10:00:00.000Z",
+        "updatedAt": "2025-10-18T09:00:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440012",
+        "title": "Code review session",
+        "description": "Conduct team code review for recent pull requests and provide feedback",
+        "status": "completed",
+        "priority": "medium",
+        "dueDate": "2025-10-16T17:00:00.000Z",
+        "tags": [
+            "code-review",
+            "team",
+            "quality"
+        ],
+        "createdAt": "2025-10-13T08:00:00.000Z",
+        "updatedAt": "2025-10-16T16:45:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440013",
+        "title": "Data migration script",
+        "description": "Create data migration script to transfer legacy data to new database format",
+        "status": "in-progress",
+        "priority": "high",
+        "dueDate": "2025-10-23T23:59:59.000Z",
+        "tags": [
+            "database",
+            "migration",
+            "backend"
+        ],
+        "createdAt": "2025-10-09T11:00:00.000Z",
+        "updatedAt": "2025-10-17T14:20:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440014",
+        "title": "Performance testing",
+        "description": "Conduct load testing and performance benchmarking of the API endpoints",
+        "status": "pending",
+        "priority": "medium",
+        "dueDate": "2025-10-26T18:00:00.000Z",
+        "tags": [
+            "testing",
+            "performance",
+            "qa"
+        ],
+        "createdAt": "2025-10-12T13:00:00.000Z",
+        "updatedAt": "2025-10-18T10:30:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440015",
+        "title": "Security audit",
+        "description": "Perform comprehensive security audit and fix identified vulnerabilities",
+        "status": "pending",
+        "priority": "high",
+        "dueDate": "2025-10-31T17:00:00.000Z",
+        "tags": [
+            "security",
+            "audit",
+            "backend"
+        ],
+        "createdAt": "2025-10-10T14:00:00.000Z",
+        "updatedAt": "2025-10-18T11:00:00.000Z"
+    },
+    {
+        "taskId": "550e8400-e29b-41d4-a716-446655440016",
+        "title": "Release notes preparation",
+        "description": "Prepare comprehensive release notes for version 2.0 highlighting all new features",
+        "status": "pending",
+        "priority": "low",
+        "dueDate": "2025-11-02T17:00:00.000Z",
+        "tags": [
+            "documentation",
+            "release",
+            "communication"
+        ],
+        "createdAt": "2025-10-15T09:00:00.000Z",
+        "updatedAt": "2025-10-18T09:15:00.000Z"
+    }
+]
